@@ -1,7 +1,5 @@
 # Ignore Evething
 *
 
-# But these files
+# But this file
 !.gitignore
-!survey_results_public_2017.csv
-!survey_results_public_2018.csv
