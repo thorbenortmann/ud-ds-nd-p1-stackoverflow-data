@@ -1,0 +1,6 @@
+# Ignore Evething
+*
+
+# But this file and jupyter notebooks
+!.gitignore
+!*.ipynb
