@@ -37,7 +37,7 @@ corresponds to question 3.
 [language_popularity_2017_2018.ipynb](notebooks/language_popularity_2017_2018.ipynb)
 corresponds to question 4.
 
-The Stackoverflow from 2017 and 2018 data used for the notebooks can be downloaded
+The Stackoverflow data from 2017 and 2018 used for the notebooks can be downloaded
 [here](https://insights.stackoverflow.com/survey).
 To use it in the notebooks put the survey result files in the data directory.
 The exact names of the required files are present at the beginning of each notebook.
@@ -49,5 +49,6 @@ The main findings of the code can be found at the post available [here]().
 
 ## Licensing, Authors, Acknowledgements
 Must give credit to Stack Overflow for the data.
-You can find the Licensing for the data and other descriptive information in the README.txt file that comes with the download.
+You can find the Licensing for the data and other descriptive information in the README.txt file that comes with the download
+(from [here](https://insights.stackoverflow.com/survey)).
 Otherwise, feel free to use the code here as you would like!
