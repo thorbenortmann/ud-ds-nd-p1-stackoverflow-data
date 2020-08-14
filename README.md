@@ -44,7 +44,7 @@ The exact names of the required files are present at the beginning of each noteb
 
 
 ## Results
-The main findings of the code can be found at the post available [here]().
+The main findings of the code can be found at the medium post available [here](https://medium.com/@thorbeno/which-programming-language-should-you-pick-19a0dd17c32b).
 
 
 ## Licensing, Authors, Acknowledgements
