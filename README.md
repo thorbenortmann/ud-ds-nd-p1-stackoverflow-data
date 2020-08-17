@@ -37,6 +37,8 @@ corresponds to question 3.
 [language_popularity_2017_2018.ipynb](notebooks/language_popularity_2017_2018.ipynb)
 corresponds to question 4.
 
+The [utils](utils)-folder holds python modules with supporting code for the notebooks.
+
 The Stackoverflow data from 2017 and 2018 used for the notebooks can be downloaded
 [here](https://insights.stackoverflow.com/survey).
 To use it in the notebooks put the survey result files in the data directory.
